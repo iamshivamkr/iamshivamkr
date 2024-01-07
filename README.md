@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I am a Software Developer who wants to learn.
+Always Learning.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [shivam\_\_kumar@outlook.com](mailto:shivam__kumar@outlook.com)
